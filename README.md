@@ -1,6 +1,6 @@
 # Hi there! I'm Kaan Özkan 👋
 
-### 🚀 Founder & CTO of Kaningo Games Software Studio (KGSS) | Turkish Developer 🇹🇷
+### 🚀 Founder & CAIA of Kaningo Games Software Studio (KGSS) | Turkish Developer 🇹🇷
 
 I am a 15-year-old software developer, game dev, and entrepreneur based in Turkey. Passionate about technology and coding, I create innovative projects and games under the roof of KGSS. Currently, I manage the technical architecture of our studio and work on building a massive software ecosystem for the future.
 
