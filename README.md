@@ -24,14 +24,6 @@ I am a 15-year-old software developer, game dev, and entrepreneur based in Turke
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DeveloperKaan&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Kaan's GitHub Stats" />
-</p>
-
----
-
 ### 📫 Connect with Me
 *   **Studio:** Kaningo Games Software Studio (KGSS)
 *   **Future Goal:** Making a global impact with next-generation technology and software.
