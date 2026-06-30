@@ -36,15 +36,12 @@ I am a 15-year-old software developer, AI architect, and entrepreneur based in T
 #### 🗄️ Backend, Cloud & Hardware
 <p align="left">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
-  <img src="https://img.shields.io/badge/Espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
 </p>
 
 ---
 
 ### 📫 Connect with Me & KGSS
 * 🏢 **Studio:** Kaningo Games Yazılım Stüdyosu
-* 🤝 **Collaboration:** Working alongside my co-founder & CTO (Anıl) to push the boundaries of indie development.
 * 🚀 **Future Goal:** Making a permanent global impact with next-generation technology, gaming ecosystems, and advanced AI architecture.
 
 *"Writing code isn't just a job; it's setting your own rules in the digital world."* 🚀
