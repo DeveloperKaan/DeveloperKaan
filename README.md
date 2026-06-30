@@ -33,7 +33,7 @@ I am a 15-year-old software developer, AI architect, and entrepreneur based in T
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 
-#### 🗄️ Backend, Cloud & Hardware
+#### 🗄️ Backend
 <p align="left">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
 </p>
