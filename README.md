@@ -13,33 +13,6 @@ I am a 15-year-old software developer, AI architect, and entrepreneur based in T
 
 ---
 
-### 🛠️ Featured Projects & Ecosystem
-
-#### 🤖 AI & System Projects
-* 🌌 **Kon.AI:** Our flagship AI model and smart assistant project, where I design the model architecture and core engine.
-  
-#### 🎮 Game Production
-* 🦅 **Anka Bird:** 
-* 🏃‍♂️ **Roco Rush:** 
-
----
-
-### 💻 Technologies & Tools
-
-#### 🌐 Frontend & Game Dev
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-</p>
-
-#### 🗄️ Backend
-<p align="left">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-</p>
-
----
-
 ### 📫 Connect with Me & KGSS
 * 🏢 **Studio:** Kaningo Games Yazılım Stüdyosu
 * 🚀 **Future Goal:** Making a permanent global impact with next-generation technology, gaming ecosystems, and advanced AI architecture.
