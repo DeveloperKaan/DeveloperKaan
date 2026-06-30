@@ -1,6 +1,3 @@
-İşte verdiğin bilgileri ve kayıtlı projelerini (Kon.AI, Anka Bird, Roco Rush, Kaningo OS, Polibon ve donanım projeleri) temel alarak, stüdyoyu 12 yaşında kurduğunu ve güncel CAIA rolünü vurgulayan, çok daha detaylı ve profesyonel bir GitHub README taslağı:
-
-```markdown
 # Hi there! I'm Kaan Özkan 👋
 
 ### 🚀 Founder & CAIA of Kaningo Games Yazılım Stüdyosu (KGSS) | AI Architect & Game Developer 🇹🇷
@@ -26,8 +23,6 @@ I am a 15-year-old software developer, AI architect, and entrepreneur based in T
 #### 🎮 Game Production & Publishing
 * 🦅 **Anka Bird:** An optimized HTML5 arcade game, officially submitted and tailored for professional review on the Yandex Games console.
 * 🏃‍♂️ **Roco Rush:** A fast-paced, high-performance web game exploring next-gen HTML5 monetization and global publishing platforms like Poki.
-* 🧱 **Polibon:** An upcoming advanced project incorporating structured 3D environments and assets.
-* 🔒 **Firebase Advanced Security Engine:** Built a custom serverless anti-cheat backend using rigid Firebase Realtime Database rules to secure in-game economies against unauthorized exploitation.
 
 ---
 
@@ -55,5 +50,3 @@ I am a 15-year-old software developer, AI architect, and entrepreneur based in T
 * 🚀 **Future Goal:** Making a permanent global impact with next-generation technology, gaming ecosystems, and advanced AI architecture.
 
 *"Writing code isn't just a job; it's setting your own rules in the digital world."* 🚀
-
-```
