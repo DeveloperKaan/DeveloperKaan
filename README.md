@@ -18,9 +18,9 @@ I am a 15-year-old software developer, AI architect, and entrepreneur based in T
 #### 🤖 AI & System Projects
 * 🌌 **Kon.AI:** Our flagship AI model and smart assistant project, where I design the model architecture and core engine.
   
-#### 🎮 Game Production & Publishing
-* 🦅 **Anka Bird:** An optimized HTML5 arcade game, officially submitted and tailored for professional review on the Yandex Games console.
-* 🏃‍♂️ **Roco Rush:** A fast-paced, high-performance web game exploring next-gen HTML5 monetization and global publishing platforms like Poki.
+#### 🎮 Game Production
+* 🦅 **Anka Bird:** 
+* 🏃‍♂️ **Roco Rush:** 
 
 ---
 
