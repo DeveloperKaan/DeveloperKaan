@@ -2,7 +2,7 @@
 
 ### 🚀 Founder & CAIA of Kaningo Games Software Studio (KGSS) | Turkish Developer 🇹🇷
 
-I am a 15-year-old software developer, game dev, and entrepreneur based in Turkey. Passionate about technology and coding, I create innovative projects and games under the roof of KGSS. Currently, I manage the technical architecture of our studio and work on building a massive software ecosystem for the future.
+I am a 15-year-old software developer and entrepreneur based in Turkey. Passionate about technology and coding, I create innovative projects and games under the roof of KGSS. Currently, I manage the technical architecture of our studio and work on building a massive software ecosystem for the future.
 
 ---
 
@@ -19,7 +19,6 @@ I am a 15-year-old software developer, game dev, and entrepreneur based in Turke
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
 ---
