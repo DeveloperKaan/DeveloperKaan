@@ -1,8 +1,8 @@
 # Hi there! I'm Kaan Özkan 👋
 
-### 🚀 Founder & CAIA of Kaningo Technology (KT) | AI Architect 🇹🇷
+### 🚀 Founder & CEO & CAIA of Kaningo Technology (KT) | AI Architect 🇹🇷
 
-I am a 15-year-old software developer, AI architect, and entrepreneur based in Turkey. At just **12 years old (in 2022), I founded Kaningo Technology** to turn my passion for technology into reality. Today, as the **Founder and Chief AI Architect (CAIA)** AI engineering within our growing software ecosystem.
+I am a 15-year-old software developer, AI architect, and entrepreneur based in Turkey. At just **12 years old (in 2022), I founded Kaningo Technology Group** to turn my passion for technology into reality. Today, as the **Founder & CEO & Chief AI Architect (CAIA)** AI engineering within our growing software ecosystem.
 
 ---
 
@@ -12,6 +12,6 @@ I am a 15-year-old software developer, AI architect, and entrepreneur based in T
 
 ---
 
-### 📫 Connect with Me & KGSS
-* 🏢 **Studio:** Kaningo Technology
+### 📫 Connect with Me & KTG
+* 🏢 **Studio:** Kaningo Technology Group
 * 🚀 **Future Goal:** Making a permanent global impact with next-generation technology ecosystems, and advanced AI architecture.
