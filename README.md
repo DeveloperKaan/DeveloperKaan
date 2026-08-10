@@ -10,11 +10,10 @@ I am a 15-year-old software developer, AI architect, and entrepreneur based in T
 
 
 
-### 🧠 My Core Expertise & Vision
+### 🌐 Brands & Ecosystem
 
-* 🤖 **AI Architecture:** Engineering smart assistants, large models, and bridging hardware with artificial intelligence.
-
-* 💻 **Systems & Security:** Developing lightweight operating system concepts and implementing bulletproof backend security/anti-cheat systems.
+* 🚀 **Kaningo Next:** R&D powerhouse focusing on advanced software development, local AI architectures (Kon.AI), and smart hardware ecosystems (Minix).
+* 💼 **Kaningo Digital:** Professional web design, custom software solutions, and comprehensive monthly maintenance services for businesses.
 
 
 
